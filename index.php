@@ -1,4 +1,4 @@
 <h1>Hola Mundo</h1>
 <?php
-echo "mensaje03";
+echo "mensaje04";
 ?>
