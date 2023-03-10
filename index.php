@@ -1,4 +1,2 @@
-<h1>Hola Mundo</h1>
-<?php
-echo "mensaje04";
-?>
+<?php require_once("index.html"); ?>
+
