@@ -1,1 +1,0 @@
-var textoFamilias = '{"familias": [{"codFamilia":"CONFR","descripcionFamilia":"Conservas de fruta"},{"codFamilia":"CONPE","descripcionFamilia":"Conservas de pescado"},{"codFamilia":"CONVE","descripcionFamilia":"Conservas de verdura"},{"codFamilia":"ESPEC","descripcionFamilia":"Especias"},{"codFamilia":"FRSEC","descripcionFamilia":"Frutas secas"}]}';
